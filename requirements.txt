@@ -1,0 +1,10 @@
+yfinance
+scikit-learn
+pandas
+tabulate
+requests
+textblob
+prettytable
+fuzzywuzzy
+python-Levenshtein
+numpy
