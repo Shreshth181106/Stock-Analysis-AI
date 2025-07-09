@@ -12,7 +12,7 @@ This project is an AI-driven stock analysis tool for Indian stocks. It fetches f
 ## How to Run
 1. Clone this repo
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run: `python your_main_file.py`
+3. Run: `python stock_suggestion_ai.py`
 
 ## APIs Used
 - yFinance
